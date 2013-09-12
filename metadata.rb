@@ -1,5 +1,5 @@
 name             'gemrc'
-maintainer       'ComparaOnline'
+maintainer       'Compara Online S.A.'
 maintainer_email 'ti@comparaonline.com'
 license          'MIT'
 description      'Configures RubyGems to ignore rdoc and ri installation using /etc/gemrc'
